@@ -1,0 +1,15 @@
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource1\MetaSource1\bin\Debug\netcoreapp3.1\MetaSource1.exe
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource1\MetaSource1\bin\Debug\netcoreapp3.1\MetaSource1.deps.json
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource1\MetaSource1\bin\Debug\netcoreapp3.1\MetaSource1.runtimeconfig.json
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource1\MetaSource1\bin\Debug\netcoreapp3.1\MetaSource1.runtimeconfig.dev.json
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource1\MetaSource1\bin\Debug\netcoreapp3.1\MetaSource1.dll
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource1\MetaSource1\bin\Debug\netcoreapp3.1\MetaSource1.pdb
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource1\MetaSource1\obj\Debug\netcoreapp3.1\MetaSource1.csprojAssemblyReference.cache
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource1\MetaSource1\obj\Debug\netcoreapp3.1\MetaSource1.Form1.resources
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource1\MetaSource1\obj\Debug\netcoreapp3.1\MetaSource1.csproj.GenerateResource.cache
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource1\MetaSource1\obj\Debug\netcoreapp3.1\MetaSource1.csproj.CoreCompileInputs.cache
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource1\MetaSource1\obj\Debug\netcoreapp3.1\MetaSource1.AssemblyInfoInputs.cache
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource1\MetaSource1\obj\Debug\netcoreapp3.1\MetaSource1.AssemblyInfo.cs
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource1\MetaSource1\obj\Debug\netcoreapp3.1\MetaSource1.dll
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource1\MetaSource1\obj\Debug\netcoreapp3.1\MetaSource1.pdb
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource1\MetaSource1\obj\Debug\netcoreapp3.1\MetaSource1.genruntimeconfig.cache

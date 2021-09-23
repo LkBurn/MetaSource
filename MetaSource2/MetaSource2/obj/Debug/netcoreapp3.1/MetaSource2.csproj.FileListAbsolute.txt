@@ -1,0 +1,15 @@
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource2\MetaSource2\bin\Debug\netcoreapp3.1\MetaSource2.exe
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource2\MetaSource2\bin\Debug\netcoreapp3.1\MetaSource2.deps.json
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource2\MetaSource2\bin\Debug\netcoreapp3.1\MetaSource2.runtimeconfig.json
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource2\MetaSource2\bin\Debug\netcoreapp3.1\MetaSource2.runtimeconfig.dev.json
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource2\MetaSource2\bin\Debug\netcoreapp3.1\MetaSource2.dll
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource2\MetaSource2\bin\Debug\netcoreapp3.1\MetaSource2.pdb
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource2\MetaSource2\obj\Debug\netcoreapp3.1\MetaSource2.csprojAssemblyReference.cache
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource2\MetaSource2\obj\Debug\netcoreapp3.1\MetaSource2.csproj.CoreCompileInputs.cache
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource2\MetaSource2\obj\Debug\netcoreapp3.1\MetaSource2.AssemblyInfoInputs.cache
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource2\MetaSource2\obj\Debug\netcoreapp3.1\MetaSource2.AssemblyInfo.cs
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource2\MetaSource2\obj\Debug\netcoreapp3.1\MetaSource2.dll
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource2\MetaSource2\obj\Debug\netcoreapp3.1\MetaSource2.pdb
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource2\MetaSource2\obj\Debug\netcoreapp3.1\MetaSource2.genruntimeconfig.cache
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource2\MetaSource2\bin\Debug\netcoreapp3.1\CACities.txt
+C:\Users\Nick.DESKTOP-CAH3JKI\source\repos\MetaSource2\MetaSource2\bin\Debug\netcoreapp3.1\USCities.txt

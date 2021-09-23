@@ -1,0 +1,32 @@
+<html>
+<script>
+	window.onload = function() {
+	var table = document.getElementById("table");
+		for (var i = 1; i <= 100; i++)
+		{
+		var child = document.createElement("div");
+		child.innerHTML = "<span style='background-color:#808080;font-size:40;font-family:sans-serif;padding:10px;margin:15px'> " + i + "</span><span style='background-color:#FFFFFF'>  " + returnEmoticon(i) + "</span> </br>";
+		insertAfter(child, table);
+		}
+	}
+
+	function returnEmoticon(i) {
+	if (i % 3 == 0 && i % 5 == 0)
+		return "<img src='smile.png' width='30' height='30'/>  <img src='frown.png' width='30' height='30'/>";
+	else if (i % 3 == 0)
+		return "<img src='smile.png' width='30' height='30'/>";
+	else if (i % 5 == 0)
+		return "<img src='frown.png' width='30' height='30'/>"; 
+	else
+		return "";
+	}
+
+	function insertAfter(newNode, referenceNode) {
+	referenceNode.parentNode.insertBefore(newNode, referenceNode);
+	}
+</script>
+
+<body>
+<div id="table"></div>
+</body>
+</html>
