@@ -47,7 +47,7 @@ namespace MetaSource1
                     highestCharCount = map[s];
                 }
             }
-            return new Results { c = highestCharValue, occurance = highestCharCount };
+            return new Results { Character = highestCharValue, Occurence = highestCharCount };
         }
     }
 }
